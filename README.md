@@ -18,5 +18,3 @@ Number is following:
 
 An output panorama view is saved after executing command.
 
-# Team
-[Renu Rani](https://github.com/techiepanda), [Anurag Arora](https://github.com/geekyspartan)
